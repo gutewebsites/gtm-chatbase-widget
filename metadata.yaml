@@ -1,0 +1,5 @@
+homepage: "https://www.gutewebsites.de"
+documentation: "https://github.com/gutewebsites/gtm-chatbase-widget/blob/main/README.md"
+versions:
+  - sha: d49fd0a41d318d82598db3e7cf0cc0ad4e0cc644
+    changeNotes: Initial release.
